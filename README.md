@@ -1,4 +1,4 @@
-# Avalie aqui APP
+# App Playstation
 Little application developed for the Senai's DEVinHouse class, mainly using <strong>React-Native and Javascript.</strong>
 
 <h1>A look through the project</h1>
